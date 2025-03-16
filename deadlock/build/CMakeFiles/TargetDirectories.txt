@@ -1,0 +1,3 @@
+/home/liuxu/c-learning/deadlock/build/CMakeFiles/rebuild_cache.dir
+/home/liuxu/c-learning/deadlock/build/CMakeFiles/edit_cache.dir
+/home/liuxu/c-learning/deadlock/build/CMakeFiles/lock.dir

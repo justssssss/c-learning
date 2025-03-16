@@ -1,0 +1,1 @@
+g++  -g  -rdynamic CMakeFiles/lock.dir/deadlock.cpp.o  -o lock  -lpthread 
