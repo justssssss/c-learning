@@ -8,7 +8,7 @@ using namespace std;
 mutex mtxA;
 mutex mtxB;
 
-
+int k = 10;
 void taskA()
 {
     lock_guard<mutex> lockA(mtxA);
